@@ -9,3 +9,6 @@ Write som explanations explaning how i solved them and why i did it that way.
 
 **Problem Nr 7 almostIncreasingSequence** was quite difficult.
 TODO: Write how i solved this problem.
+
+**Problem Nr 33 stringRearrangement** was quite difficult i think.
+TODO: Write how i solved this problem.
